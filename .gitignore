@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build files
+dist/
+build/
+.next/
+out/
+.coverage/
+
+# Database
+*.sqlite
+*.db
+
+# Docker
+*.pid
+*.seed
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Misc
+.SpaceVim.d/
+.spotify_backup/
